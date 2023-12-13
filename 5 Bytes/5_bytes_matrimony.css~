@@ -1,0 +1,126 @@
+*{padding:0;margin:0;box-sizing:border-box;font-family;sans-serif;}
+header{
+	font-family:sans-serif;
+	width:100%;
+	min-height:100vh;
+	background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('/home/student/Desktop/5 Bytes/wedding2.jpg');
+	background-size:cover;
+	position: relative;
+}
+.info{
+	color: white;
+	font-size:20px;
+	padding:10px 50px ;
+	cursor: pointer;
+}
+.info span{
+	margin :0 10px;
+}
+nav{
+	width:100%;
+	height: 70px;
+	padding: 0 70px ;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.logo{
+	font-size: 2em;
+	font-family: bold;
+	letter-spacing: 2px;
+	color: white;
+
+}
+.logo i{
+	color: lime;	
+}
+.menu a{
+	text-decoration: none;
+	color:black;
+	padding: 5px;
+	font-size: 22px;
+	background:white;
+	border-radius: 5px;
+	transition: 0.4s;
+}
+.menu a:hover{
+	background:green;
+	border-radius: 5px;
+	
+}
+.box{
+	background:silver;
+	width: 450px;
+	height:500px;
+	position: absolute;
+	top:25%;
+	right:5%;
+	padding: 30px;
+}
+form{
+	width:100%;
+}
+form input[type="text"]{
+	width:100%;
+	padding:20px 10px;
+	margin:10px 0;
+	outline: none;
+	border:none;
+	background:rgba(0,0,0,0.1);
+	}
+form input[type="button"]{
+	width:100%;
+	padding:20px 10px;
+	margin:10px 0;
+	outline: none;
+	border: none;
+	background:green;
+	color:Black;
+	cursor: pointer;
+	transition:0.4s
+	
+}
+form input[type="button"]:hover{
+background: transparent;
+border: 1px; solid grey;
+color: black;
+
+}
+.box span{
+	color:green;
+	cursor:pointer;
+}
+.htext{
+	position: absolute;
+	top:30%;
+	left:5%;
+	max-width:600px;
+	color:white;
+	
+}
+.htext h1{
+font-size:2em;
+}
+.htext h2{
+font-size:4em;
+}
+.htext span{
+	color:green;
+}
+.htext p{
+	margin: 15px 0;
+	line-height:2em;
+}
+.htext a{
+	text-decoration:none;
+	color:white;
+	padding: 10px 20px;
+	border:1px solid white ;
+	letter-spacing:2px;
+	border-radius: 8px;
+	transition:0.4s
+}
+.htext a:hover{
+	background:green;
+}
+

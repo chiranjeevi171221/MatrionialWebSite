@@ -1,0 +1,36 @@
+<!DOCTYPE HTML>
+<html>
+<head> <h1 align="center"> About Us :</h1> 
+<link rel="stylesheet" type="text/css" href="about.css">
+<style>
+body
+{
+background:url(wedding6.jpg)no-repeat center fixed;
+background-size:cover;
+color: black;
+align-content: center;
+}
+</style>
+</head>
+
+<center>
+<body align="center">
+	<form>
+<a href="5_bytes_home.html"><input type="button" value="Home"></a>
+<h1> PARINAYA💛️</h1>
+<h2>
+💮️We are team 5 bytes of parinaya matrimony site having 80% success rate<br>
+</h2><br>
+<h2>
+💮️Many great actors and sports persons also got their partners through our website. <br><br>Ex: ViratKohli-AnushkaSharma and Ranveer Singh-Deepika Padukone <br>
+</h2><br><br>
+<h1>
+💮️Terms & Conditions:</h1><br><h3>
+1.you should login to our page once at a time<br><br>
+2.high security is provided
+</h3>
+</form>
+</body>
+</center>
+</html>
+

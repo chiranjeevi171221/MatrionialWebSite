@@ -1,0 +1,102 @@
+*
+{
+padding: 0;
+margin: 0;
+}
+form input[type="button"]{
+	width:30%;
+	padding:20px 15px;
+	margin:4px 0px;
+	outline: none;
+	border: none;
+	background:teal;
+	color:black;
+	cursor: pointer;
+	transition:0.4s
+	
+}
+*
+{
+padding: 0;
+margin: 0;
+}
+.h1{
+<marqee>scrollamount="10" direction="left"</marqee>
+}
+body 
+{
+box-Sizing:border-box;
+font-family:sans-serif;
+font-size:medium;
+background:black;
+text-align:center;
+color:black;
+}
+.scroll-left{
+overflow:hidden;
+position:relative;
+background:yellow;
+color:orange;
+border:1px solid orange;
+}
+.menu-bar ul li
+{
+display: inline-flex;
+list-style:none;
+color:teal;
+}
+.menu-bar ul li
+{
+height:25px;
+margin:15px;
+padding:15px;
+}
+.menu-bar ul li a
+{
+text-decoration:none;
+color:black;
+}
+.active, .menu-bar ul li:hover
+{
+background:pink;
+border-radius:3px;
+}
+.menu-bar .fa
+{
+margin-right:8px;
+}
+.sub-menu-1
+{
+display:none;
+}
+.menu-bar ul li:hover .sub-menu-1
+{
+display:block;
+position:absolute;
+background:purple;
+margin-top:15px;
+margin-left:-15px;
+}
+.menu-bar ul li:hover .sub-menu-1 ul
+{
+display: block;
+margin: 10px;
+}
+.menu-bar ul li:hover .sub-menu-1 ul li
+{
+width: 150px;
+padding: 10px;
+border-bottom: 0.5px dotted #0000;
+background: transparent;
+border-radius: 0;
+text-align: left;
+}
+.menu-bar ul li:hover .sub-menu-1 ul li:last-child
+{
+	border-bottom: none;
+}
+form input[type="button"]:hover{
+background: transparent;
+border: 1px; solid grey;
+color: black;
+}

@@ -1,0 +1,20 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>changed</title>
+<link rel="stylesheet" type="text/css" href="change.css">
+</head>
+<style>
+body{
+background:url(chang.jpg)no-repeat center fixed;
+background-size:cover;
+}
+</style>
+<form>
+<body>
+<h1 style="text-align:center" color="aqua">Your password is successfully changed👍️.......</h1>
+<h2  align="center"><a href="login.html"><input type="button" name="Back to Login page" value="Back to Login page"></a></h2>
+<h2  align="center"><a href="5_bytes_home.html"><input type="botton" name="Home" value="Home" align="center"></a></h2>
+</body>
+</form>
+</html>
